@@ -7,6 +7,7 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+[assembly:System.Resources.NeutralResourcesLanguageAttribute("en-US")]
 
 namespace NzbDrone.Common.EnsureThat.Resources
 {
